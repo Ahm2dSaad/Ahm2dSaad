@@ -3,7 +3,6 @@
 Flutter Developer ⚡️🚀 <br>
 Its hard to fall , but it is worse never to have a tried to succeed 🏆</h3>
 <br><br><br>
-<p style="width: 100;height: 100;"><img  src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt=""></p>
 - 🔭 I’m currently working on **To develop myself in the Dart language and the Flutter framework**
 
 - 🌱 I’m currently learning **Dart language and Flutter framework**
