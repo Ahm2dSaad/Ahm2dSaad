@@ -3,7 +3,6 @@
 Flutter Developer ⚡️🚀 <br>
 Its hard to fall , but it is worse never to have a tried to succeed 🏆</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahm2dsaad&label=Profile%20views&color=0e75b6&style=flat" alt="ahm2dsaad" /> </p>
 
 - 🔭 I’m currently working on **To develop myself in the Dart language and the Flutter framework**
 
@@ -25,3 +24,4 @@ Its hard to fall , but it is worse never to have a tried to succeed 🏆</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahm2dsaad&show_icons=true&locale=en" alt="ahm2dsaad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahm2dsaad&" alt="ahm2dsaad" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahm2dsaad&label=Profile%20views&color=0e75b6&style=flat" alt="ahm2dsaad" /> </p>
