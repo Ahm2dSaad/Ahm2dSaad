@@ -11,8 +11,7 @@ Its hard to fall , but it is worse never to have a tried to succeed 🏆</h3>
 <p align="center">
   <img
     width="700px"
-        height="400px"
-
+    height="400px"
     src="https://images.unsplash.com/photo-1617040619263-41c5a9ca7521?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
     alt=""
   />
