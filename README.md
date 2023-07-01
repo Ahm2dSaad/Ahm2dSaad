@@ -18,7 +18,7 @@ Its hard to fall , but it is worse never to have a tried to succeed 🏆</h3>
   />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/ahm2dsaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahm2dsaad" height="30" width="40" /></a>
