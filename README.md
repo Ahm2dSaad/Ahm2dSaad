@@ -3,9 +3,9 @@
 Flutter Developer ⚡️🚀 <br>
 Its hard to fall , but it is worse never to have a tried to succeed 🏆</h3>
 <br><br><br>
-- 🔭 I’m currently working on **To develop myself in the Dart language and the Flutter framework**
+- 🔭 I’m currently working on To develop myself in the Dart language and the Flutter framework
 <br>
-- 🌱 I’m currently learning **Dart language and Flutter framework**
+- 🌱 I’m currently learning Dart language and Flutter framework
 <br>
 - 📫 How to reach me **ahmadsal33d@gmail.com**
 <p align="center">
