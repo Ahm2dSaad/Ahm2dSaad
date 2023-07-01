@@ -8,7 +8,7 @@ Its hard to fall , but it is worse never to have a tried to succeed 🏆</h3>
 - 🌱 I’m currently learning **Dart language and Flutter framework**
 
 - 📫 How to reach me **ahmadsal33d@gmail.com**
-<p align="left">
+<p align="center">
   <img
     width="700px"
     ;
